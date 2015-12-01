@@ -13,7 +13,7 @@ The goal of the puzzle is to find a short sequence of moves that restores the ca
 
 The program should run on the command line like:
 python solver16.py [input-board-filename]
-where input-board-filename is a text file containing a board configuration in a format like:
+where input-board-filename is a text file containing a board configuration in a format like: <br />
 5 7 8 1 <br />
 10 2 4 3 <br />
 6 9 11 12 <br />
